@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff; /* hex */
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  color: rgb(34, 139, 34); /* rgb */
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+h2 {
+  color: hsl(200, 60%, 40%); /* hsl */
+  font-size: 1.8rem;
+}
+
+p {
+  color: #333;
+  margin-bottom: 1em;
+}
+
+ul li:hover {
+  color: crimson;
+  cursor: pointer;
+}
